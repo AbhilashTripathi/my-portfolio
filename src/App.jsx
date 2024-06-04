@@ -1,4 +1,3 @@
-import './App.css'
 import { Navbar, Academics, Contact, Experience, Hero, Projects, Acheivements, Skills } from './components'
 
 function App() {
